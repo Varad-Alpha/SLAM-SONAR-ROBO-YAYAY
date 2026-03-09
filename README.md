@@ -1,2 +1,4 @@
 # SLAM-SONAR-ROBO-YAYAY
 This is for my SLAM ultrasonic based robot and is very good, worth checking out, and yes, I am doing self advertising 
+
+How it works(becoz yall are suspicious as hell): The very good SLAM robot employs state of the art servo mount for its standardized foundational ultrasonic sensor to survey its surroundings and detect obstacles. The data collected from the surveying process is used to create an almost perfect 2D grid map of the SLAM robot's surroundings. The SLAM robot then proceeds to move forward in chotta chotta  steps, updating its position on the state of the artiest art grid. The web server built into the SLAM robot shows a live map of its surroundings, displaying its current position and any evil dumb obstacles it has detected. The SLAM robot's perfectly fine surveying process allows it to move around its surroundings autonomously, demonstrating the perfectly  basic principles of SLAM.
